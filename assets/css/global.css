@@ -1,0 +1,27 @@
+body {
+    background: #a981a7 linear-gradient(#9b6ca0, #a981a7) no-repeat;
+    font-family: Georgia, serif;
+    height: 100%;
+}
+
+#container {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 15px 20px;
+    width: 500px;
+}
+
+#portrait {
+    border: 1px solid black;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    width: 250px;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
