@@ -1,5 +1,5 @@
 body {
-    background: #a981a7 linear-gradient(#9b6ca0, #a981a7) no-repeat;
+    background: #a981a7 linear-gradient(#82598b, #a981a7) no-repeat;
     font-family: Georgia, serif;
     height: 100%;
 }
@@ -7,9 +7,9 @@ body {
 #container {
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 20px;
-    margin: 20px auto;
+    margin: auto;
     padding: 15px 20px;
-    width: 500px;
+    max-width: 500px;
 }
 
 #portrait {
